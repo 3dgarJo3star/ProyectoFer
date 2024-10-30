@@ -2,13 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 79: expected 'label_name' not found.
-    jump
-        ^
-
-File "game/script.rpy", line 81: expected 'label_name' not found.
-    jump
-        ^
+File "game/Jorge.rpy", line 4: invalid syntax
+    export Jorge
+            ^
 
 Ren'Py Version: Ren'Py 8.3.2.24090902
-Tue Oct 29 14:24:11 2024
+Wed Oct 30 10:39:28 2024

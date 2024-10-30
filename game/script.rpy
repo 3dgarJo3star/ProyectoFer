@@ -1,6 +1,5 @@
 ﻿init python:
     import random
-
 # Definición de personajes
 define Ren = Character('Ren Edward', color='#75eeff')
 define Yui = Character('Yui', color='#e175ff')
@@ -79,8 +78,6 @@ label start:
             jump Jorge
         "No cabron es George":
             jump George
-label Jorge:
-    Ren "menos mal he acertado!"
 label George:
     Ren "Carajo Lo siento, te debo un cafe, no es normal que me equivoque te pido disculpas denuevo" 
     PersonajePrincipal "(Mejor mamame el huevo...)"
